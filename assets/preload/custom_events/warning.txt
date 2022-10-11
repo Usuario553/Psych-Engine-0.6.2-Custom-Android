@@ -1,0 +1,3 @@
+whatever u take ur custom event and replace with theses template, don't forget to change ur custom event name (in lua file) to template1-3
+have fun modding
+- banana peel
